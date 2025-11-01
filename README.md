@@ -13,6 +13,7 @@ You can use these to know which is best for you:-
 
 ### Can't pay for Asesprite Build it like I did
 - I'm planning to buy the software later just to promote my fellow Software Developers
-## ⚠️NOTE: This is not Pirating as you'll be following the Guides provided by the Developers themselves 
+### ⚠️NOTE: This is not Pirating as you'll be following the Guides provided by the Developers themselves 
 - https://youtu.be/Ki-qvNx6CaU?si=MxHJa-gn9W3dOuX9
 - If you can buy go to Steam or any other platform that might have it
+
